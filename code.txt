@@ -53,4 +53,3 @@ else {
 
 Console.ReadKey();
 
-go bokor koskash
